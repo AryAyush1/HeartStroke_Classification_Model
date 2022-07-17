@@ -1,0 +1,3 @@
+pip conditions:
+
+pip install researchpy
