@@ -8,7 +8,7 @@ having heart stroke.
 
 Dataset Overview:
 
-The dataset was taken from kaggle and contains details of an avegage person.
+The dataset was taken from kaggle and contains details of an average person.
 
 The dataset was clean and standardized for easy implementaion.
 
